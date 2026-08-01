@@ -51,25 +51,25 @@ export default function HomePage() {
             </Link>
           </div>
           <div className={`${styles.country}`}>
-            <Link onClick={() => setIsShowWarning(true)}>
+            <Link to={TARGET_LINK} target='_blank'>
               <img className='w-100' src={kjc_brazil} alt="kjc-brazil" />
               <div className='mt-md-3 mt-2'>BRAZIL</div>
             </Link>
           </div>
           <div className={`${styles.country}`}>
-            <Link onClick={() => setIsShowWarning(true)}>
+            <Link to={TARGET_LINK} target='_blank'>
               <img className='w-100' src={kjc_philippines} alt="kjc-philippines" />
               <div className='mt-md-3 mt-2'>PHILIPPINES</div>
             </Link>
           </div>
           <div className={`mt-md-0 mt-3 ${styles.country}`}>
-            <Link onClick={() => setIsShowWarning(true)}>
+            <Link to={TARGET_LINK} target='_blank'>
               <img className='w-100' src={kjc_myanmar} alt="kjc-myanmar" />
               <div className='mt-md-3 mt-2'>MYANMAR</div>
             </Link>
           </div>
           <div className={`mt-md-0 mt-3 ${styles.country}`}>
-            <Link onClick={() => setIsShowWarning(true)}>
+            <Link to={TARGET_LINK} target='_blank'>
               <img className='w-100' src={kjc_pakistan} alt="kjc-pakistan" />
               <div className='mt-md-3 mt-2'>PAKISTAN</div>
             </Link>
