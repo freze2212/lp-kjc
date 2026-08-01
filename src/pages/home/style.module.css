@@ -1,0 +1,77 @@
+.home {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.backgroundVideo {
+  filter: brightness(0.75);
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.logo {
+  min-width: 600px;
+}
+
+.adminEmail {
+  min-width: 388px;
+}
+
+.country {
+  min-width: 200px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+  width: 20%;
+}
+
+.country a {
+  color: #939393;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.banner {
+  min-width: 656px;
+}
+
+.joinNowBtn {
+  bottom: -11%;
+  min-width: 206px;
+  width: 30%;
+}
+
+.footerDecor {
+  filter: grayscale(1);
+  height: 128px;
+}
+
+@media screen and (max-width: 768px) {
+  .adminEmail,
+  .logo {
+    min-width: auto;
+  }
+  .country {
+    min-width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 33%;
+  }
+  .country a {
+    font-size: 16px;
+  }
+  .banner {
+    min-width: auto;
+  }
+  .joinNowBtn {
+    bottom: -14%;
+    min-width: auto;
+    width: 33%;
+  }
+}

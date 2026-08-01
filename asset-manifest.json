@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa08550c.css",
+    "main.js": "/static/js/main.edb0ff5d.js",
+    "static/css/2.7e3b4781.chunk.css": "/static/css/2.7e3b4781.chunk.css",
+    "static/js/2.76a1bcc6.chunk.js": "/static/js/2.76a1bcc6.chunk.js",
+    "static/js/956.379597a6.chunk.js": "/static/js/956.379597a6.chunk.js",
+    "static/js/37.5b789662.chunk.js": "/static/js/37.5b789662.chunk.js",
+    "static/media/kjc-pakistan.gif": "/static/media/kjc-pakistan.a81c471c5a566dc98ca0.gif",
+    "static/media/megalive-t7.gif": "/static/media/megalive-t7.430b6a4866be6dc1bcad.gif",
+    "static/media/video.webm": "/static/media/video.65b7f93804a1a5f66985.webm",
+    "static/media/megalive-t6.gif": "/static/media/megalive-t6.254058978c398c49af85.gif",
+    "static/media/video-mobile.webm": "/static/media/video-mobile.417b4628e661fa338489.webm",
+    "static/media/kjc-brazil.gif": "/static/media/kjc-brazil.df05bc75f06f1cc71855.gif",
+    "static/media/kjc-vietnam.gif": "/static/media/kjc-vietnam.10251bc8477a0e13625a.gif",
+    "static/media/kjc-myanmar.gif": "/static/media/kjc-myanmar.0b54995a140f13e0f901.gif",
+    "static/media/kjc-philippines.gif": "/static/media/kjc-philippines.d13d50b0aeb166eb425d.gif",
+    "static/media/footer-decor.png": "/static/media/footer-decor.d48a028ec71fc30e9ee0.png",
+    "static/media/tham-gia-ngay-btn-t6.gif": "/static/media/tham-gia-ngay-btn-t6.46ed015ce8e5421aeda0.gif",
+    "static/media/tham-gia-ngay-btn-t7.gif": "/static/media/tham-gia-ngay-btn-t7.46ed015ce8e5421aeda0.gif",
+    "static/media/kjc-warning.png": "/static/media/kjc-warning.23329f4f90dad64b695e.png",
+    "static/media/404-page-not-found.png": "/static/media/404-page-not-found.4809eda2679d82a2256d.png",
+    "static/media/logo.png": "/static/media/logo.0317f5103c1d31a7da66.png",
+    "static/media/admin-email.png": "/static/media/admin-email.2a0e0d38482676de5388.png",
+    "index.html": "/index.html",
+    "main.aa08550c.css.map": "/static/css/main.aa08550c.css.map",
+    "main.edb0ff5d.js.map": "/static/js/main.edb0ff5d.js.map",
+    "2.7e3b4781.chunk.css.map": "/static/css/2.7e3b4781.chunk.css.map",
+    "2.76a1bcc6.chunk.js.map": "/static/js/2.76a1bcc6.chunk.js.map",
+    "956.379597a6.chunk.js.map": "/static/js/956.379597a6.chunk.js.map",
+    "37.5b789662.chunk.js.map": "/static/js/37.5b789662.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa08550c.css",
+    "static/js/main.edb0ff5d.js"
+  ]
+}
